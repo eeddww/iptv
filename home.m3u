@@ -1,0 +1,129 @@
+#EXTM3U url-tvg="https://www.bevy.be/generate/or6syU84h7.xml"
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Shows", AMC Argentina
+http://168.227.22.18:1935/live/mobile-079/playlist.m3u8
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Shows", America Peru
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"57ad785322e04cc3ba1c0ee5028cb9ff":"2e465a9a43cc7d3038cd423d24d5d25e","00e0cd7f5a2448d7bacf8f69553112c3":"2f972d93bd9b27b00692651fbe600e5c"}
+https://1279247418.rsc.cdn77.org/bpk-tv/QMCRTV/dash/manifest.mpd
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Shows", ATV
+#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://futbolgratisenhd.com/
+https://1016-vos.dtvott.com/DASH/manifest.mpd
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Deportes", Liga 1 Max
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://vid.playuct1.com/
+https://nes04.jobdone.top:8088/live/ELGTV3/playlist.m3u8?vidictid=19792437184&id=120218&pk=d560894227ad776326709561a03e4ab100cd9676163988d7a391ac75cc0f7245c319ed21d8292313176b4934122463e53ea803df703c192185fba24eba8f7aec
+
+
+#EXTINF:0 tvg-id="beIN Sports HDTV (Spanish)" tvg-logo="" group-title="Deportes", La 1
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0"
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://hopehouse.mov/
+https://f6hmx3jswd83sq.librarywhispering.com/hls/d7f6b88a2aa4545b-a5c875da2d61550bc45daae8b0aa51a0d6a2f8f5c11971a337071ced166f2a43/live.m3u8
+
+#EXTINF:0 tvg-id="beIN Sports HDTV (Spanish)" tvg-logo="" group-title="Deportes", ESPN77
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0"
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://choosingnothing.com/
+https://f6hmx3jswd83sq.librarywhispering.com/hls/38bb65563488d841-b25d74e6c07671acdf0e45f0e80ca076058fc28ea51d8639c81090966f338396/live.m3u8
+
+#EXTINF:0 tvg-id="beIN Sports HDTV (Spanish)" tvg-logo="" group-title="Deportes", Bein Sports ES
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0"
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://qqwebplay.xyz/
+#https://dlhd.so/stream/stream-372.php
+https://ddy1.mizhls.ru/ddy1/premium372/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-id="beIN Sports HDTV (Spanish)" tvg-logo="" group-title="Deportes", TYC
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0"
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://hopehouse.mov/
+#https://telerium.biz/stream/tyc.php
+https://f6hmx3jswd83sq.librarywhispering.com/hls/1cbde9d3b1812188-dc93bebfd4c727a9fe7677f9fb1f5cfeb235811420e7eb6cd571d711676abd7e/live.m3u8
+
+
+#EXTINF:0 tvg-id="beIN Sports HDTV (Spanish)" tvg-logo="" group-title="Deportes", beIN Sports Español
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://weblivehdplay.ru/
+https://02-24.webhd.ru/ddh1/premium372/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-id="DAZN LALIGA" tvg-shift="" tvg-logo="" group-title="Deportes", DAZN La Liga
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Deportes", DSports Argentina
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://pirlotvenvivo.me/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e1c0dd8d951335d9d8c534d29277c91:978f073eee32606a3f2544306fb1a7b3
+https://1059-vos-da-mt.dtvott.com/DASH/manifest.mpd
+
+#EXTINF:0 tvg-id="" tvg-shift="" tvg-logo="" group-title="Deportes", ESPN
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8d7103c488b2074130894cdd94cd7223:e23595762d2924120685682ec1180b61
+https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(ESPNHDPAN)/manifest.mpd
+
+#EXTINF:0 tvg-id="ESPN.co" tvg-shift="" tvg-logo="" group-title="Deportes", ESPN Colombia
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8d7cb8fbc81cf3eddf8ebb5db5e11282:b7a98812ab8d8974649a6ec420c013e1
+https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(ESPN_2_HD)/manifest.mpd
+
+#EXTINF:0 tvg-id="ESPN" tvg-shift="" tvg-logo="" group-title="Deportes", ESPN nose
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=579fc0cd11842bce9c045a0d55aa4872:bf54d928e27061a13fafdde934146472
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/DASH_DASH_FK/Live/channel(ESPN2)/master.mpd
+
+#EXTINF:0 tvg-id="ESPN 2" tvg-logo="" group-title="Deportes", ESPN 2
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f85a4e1fc5937a827313597d04f8e27:cc1d8219be0130da85e4c4ce73a75abb
+https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(ESPN_HD)/manifest.mpd
+
+#EXTINF:0 tvg-id="ESPN 3" tvg-shift="" tvg-logo="" group-title="Deportes", ESPN 3
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb04e4ec7049c0712e09c57aea9c1cb7:404636ec78dfaf363333805c9a2c3f66
+https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(ESPN_3_HD)/manifest.mpd
+
+#EXTINF:0 tvg-id="ESPN EXTRA HD" tvg-shift="" tvg-logo="" group-title="Deportes", ESPN 4
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1edee1ef683e9518a172af824b07642a:39371baca096e3c1c896e55bab88b564
+https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(ESPN_PLUS_HD)/manifest.mpd
+
+#EXTINF:0 tvg-id="FOX SPORTS 3" tvg-shift="" tvg-logo="" group-title="Deportes", ESPN 5
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4509cc12887f5d8402cc9c0025ecdd52:2344766901410ed6306e445a9c43249e
+https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(FOX_SPORTS_HD)/manifest.mpd
+
+#EXTINF:0 tvg-id="FOX SPORTS 2" tvg-shift="" tvg-logo="" group-title="Deportes", ESPN 7
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=49020ffc8b5cc542c469370c40000565:8ea4292586d4df3ab4ef173453f6c555
+https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(FOX_SPORTS2_HD)/manifest.mpd
+
+#EXTINF:0 tvg-id="HBO 2" tvg-shift="" tvg-logo="" group-title="Shows", HBO PLUS (y)
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8c6e933f315578b5111e2292faf99f70:3446f35947957d3701c49fd1729f216f
+https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(HBO_PLUS_HD_MX)/manifest.mpd
+
+#EXTINF:0 tvg-id="HBO" tvg-shift="" tvg-logo="" group-title="Shows", HBO HD (y)
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=24c2a4df8e8ddd176661ca6e0d61b26b:b1b13889f71a96902c28582302163a5c
+https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(HBO_HD_MX)/manifest.mpd
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Shows", Latina Peru (y)
+https://jireh-1-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream2/chunks.m3u8
+
+#EXTINF:0 tvg-id="TUDN" tvg-logo="" group-title="Deportes", TUDN MX (y)
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://choosingnothing.com/
+https://f6hmx3jswd83sq.librarywhispering.com/hls/0dde09a3e2971766-b565db5fa095f8c99e836c5f31aa1ab36669c1064802c865f1d3d2ab9c65c3b9/live.m3u8
